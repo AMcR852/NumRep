@@ -1,3 +1,3 @@
 # NumRep
 
-Various excersise from the UoE Numerical Recipes course
+Various coding exercises from the Numerical Recipes course
